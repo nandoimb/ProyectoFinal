@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#product-list, #order-list {
+    margin-bottom: 20px;
+}
+
+.product, .order {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+label {
+    margin: 5px 0;
+}
+
+input, button {
+    padding: 8px;
+    margin: 5px 0;
+}
